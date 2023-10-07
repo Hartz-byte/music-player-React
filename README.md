@@ -1,7 +1,11 @@
 #Quick peaks screenshots!!
+
 ![React App - Google Chrome 07-10-2023 21_23_04](https://github.com/Hartz-byte/music-player-React/assets/67004713/dac371e9-2054-456a-a7d6-ac7eddb2afc1)
+
 ![React App - Google Chrome 07-10-2023 21_24_04](https://github.com/Hartz-byte/music-player-React/assets/67004713/8e620013-aec3-4f02-b266-9a832d6cf82d)
+
 ![React App - Google Chrome 07-10-2023 21_24_30](https://github.com/Hartz-byte/music-player-React/assets/67004713/3a4e267b-188b-49b0-9d78-dc20963cd553)
+
 
 
 # Getting Started with Create React App
