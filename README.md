@@ -1,3 +1,5 @@
+idk!! but the GitHub deployment is not working :/
+
 #Quick peaks screenshots!!
 
 ![React App - Google Chrome 07-10-2023 21_23_04](https://github.com/Hartz-byte/music-player-React/assets/67004713/dac371e9-2054-456a-a7d6-ac7eddb2afc1)
